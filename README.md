@@ -1,7 +1,5 @@
-# DiamondHacks
+# X-Marks-the-Gym
 ## Ideas
-- pokemon go based app mixed with geocaching 
-- real life routing 
-- user profiles where the distance traveled to a cache is the amount of points 
-- try to use grasshoper api 
-- visualize map
+- workout buddy app
+- find other people who want to workout at specific UCSD locations (expand to real-life locations later)
+- user profiles
